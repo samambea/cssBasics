@@ -1,2 +1,2 @@
 # cssBasics
-Repositório para registrar base de CSS.
+Repositório para registrar exercícios de HTML/CSS.
